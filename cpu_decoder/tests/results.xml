@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1752212356" />
+    <testcase name="test_instruction_decoder" classname="test_decoder" file="/home/shakti/cpu_decoder/tests/test_decoder.py" lineno="10" time="0.00038433074951171875" sim_time_ns="1.0" ratio_time="2601.925558312655" />
+  </testsuite>
+</testsuites>
